@@ -1,4 +1,4 @@
-# Desafio Transformação e Limpeza de dados para Power BI | Treinamento DIO 📜📜📜
+# Transformação e Limpeza de dados para Power BI |  📜📜📜
 
 ## Foi realizada essas tranformações:
 - ### O campo Salary da tabela Employee foi transformada em decimal fixo;
